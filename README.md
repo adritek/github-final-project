@@ -14,6 +14,7 @@ Output<br>
 
 Contributions are always welcome!<br>
 Please read the [contribution guidelines](CONTRIBUTING.md) first.<br>
+And be considerate of our [Code of Conduct](CODE_OF_CONDUCT.md)<br>
 
 ## License
 
